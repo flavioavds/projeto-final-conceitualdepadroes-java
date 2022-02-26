@@ -1,0 +1,6 @@
+package com.dioinnovation.projetomc.resources;
+
+@RestController
+public class CategoriaResource {
+
+}

@@ -1,0 +1,11 @@
+package com.dioinnovation.projetomc.resources.exception;
+
+import org.springframework.http.ResponseEntity;
+
+@ControllerAdvice
+public class ResourceExceptionHandler {
+
+	public ResponseEntity<StandarError> objectNotFound(ObjectNotFoundException e, HttpServletRequest request){
+		
+	}
+}

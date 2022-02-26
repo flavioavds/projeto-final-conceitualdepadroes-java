@@ -1,0 +1,8 @@
+package com.dioinnovation.projetomc.domain;
+
+public class Estado {
+	
+	private Integer id;
+	private String nome;
+
+}

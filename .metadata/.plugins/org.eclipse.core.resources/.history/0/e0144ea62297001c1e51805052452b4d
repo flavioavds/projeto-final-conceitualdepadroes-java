@@ -1,0 +1,9 @@
+package com.dioinnovation.projetomc.domain.enums;
+
+public enum EstadoPagamento {
+	
+	PENDENTE,
+	QUITADO,
+	CANCELADO;
+
+}

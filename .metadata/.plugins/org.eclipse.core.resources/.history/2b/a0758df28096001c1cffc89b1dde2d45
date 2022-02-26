@@ -1,0 +1,6 @@
+package com.dioinnovation.projetomc.domain;
+
+public class Produto {
+	
+
+}

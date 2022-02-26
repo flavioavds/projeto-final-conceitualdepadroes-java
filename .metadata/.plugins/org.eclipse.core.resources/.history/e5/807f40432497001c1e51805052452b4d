@@ -1,0 +1,11 @@
+package com.dioinnovation.projetomc.domain;
+
+import com.dioinnovation.projetomc.domain.enums.EstadoPagamento;
+
+public class Pagamento {
+	private Integer id;
+	private EstadoPagamento estado;
+	
+	private Pedido pedido;
+
+}

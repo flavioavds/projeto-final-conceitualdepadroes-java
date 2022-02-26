@@ -1,0 +1,24 @@
+1645764025277	Rename type 'ProjetomcApplication'
+1645764034354	Rename type 'ProjetomcApplicationTests'
+1645823717690	Rename field 'home'
+1645824154772	Encapsulate field 'produtos'
+1645825279538	Copy compilation unit
+1645826527494	Delete element
+1645830468232	Copy compilation unit
+1645830479866	Copy compilation unit
+1645831240372	Rename local variable 'home'
+1645832968204	Rename local variable 'home'
+1645841045426	Encapsulate field 'cidade'
+1645842402061	Copy compilation unit
+1645842486128	Copy compilation unit
+1645889231734	Copy compilation unit
+1645889636767	Copy compilation unit
+1645893338564	Delete element
+1645894582926	Encapsulate field 'pedidos'
+1645899026243	Copy compilation unit
+1645899147547	Copy compilation unit
+1645901459009	Encapsulate field 'itens'
+1645901493596	Encapsulate field 'itens'
+1645903336802	Copy compilation unit
+1645903827662	Copy compilation unit
+1645903900355	Copy compilation unit

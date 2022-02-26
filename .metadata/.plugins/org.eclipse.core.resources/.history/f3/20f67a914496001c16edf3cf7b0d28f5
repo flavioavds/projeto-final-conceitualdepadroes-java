@@ -1,0 +1,35 @@
+package com.dioinnovation.projetomc.domain;
+
+public class Categoria {
+	
+	private Integer id;
+	private String home;
+	
+	public Categoria() {
+		
+	}
+
+	public Categoria(Integer id, String home) {
+		super();
+		this.id = id;
+		this.home = home;
+	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getHome() {
+		return home;
+	}
+
+	public void setHome(String home) {
+		this.home = home;
+	}
+
+	
+}

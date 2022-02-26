@@ -1,0 +1,5 @@
+package com.dioinnovation.projetomc.resources.exception;
+
+public class ResourceExceptionHandler {
+
+}

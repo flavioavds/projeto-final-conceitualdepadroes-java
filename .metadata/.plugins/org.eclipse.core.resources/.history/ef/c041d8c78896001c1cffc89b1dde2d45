@@ -1,0 +1,6 @@
+package com.dioinnovation.projetomc.resources.exception;
+
+public class StandardError {
+
+	private Integer status
+}

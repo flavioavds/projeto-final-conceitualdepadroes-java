@@ -1,0 +1,6 @@
+package com.dioinnovation.projetomc.services.exceptions;
+
+public class ObjectNotFoundException extends RuntimeException{
+
+	
+}

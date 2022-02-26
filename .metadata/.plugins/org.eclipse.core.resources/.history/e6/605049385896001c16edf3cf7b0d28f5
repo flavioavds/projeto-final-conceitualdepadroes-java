@@ -1,0 +1,19 @@
+package com.dioinnovation.projetomc.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.dioinnovation.projetomc.domain.Categoria;
+import com.dioinnovation.projetomc.repositories.CategoriaRepository;
+
+@Service
+public class CategoriaService {
+	
+	@Autowired
+	private CategoriaRepository repo;
+	
+	public Categoria buscar() {
+		
+	}
+
+}
